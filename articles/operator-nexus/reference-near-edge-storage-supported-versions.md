@@ -56,11 +56,12 @@ Each number in the version indicates general compatibility with the previous ver
 
 |  PurityOS version | Support added in | End of support | Remarks |
 |-------------------|------------------|----------------|---------|
-| 6.5.1             | Nexus 2403.x     | Mar 2026*     | |
-| 6.5.4             | Nexus 2404.x     | Mar 2026*     | |
-| 6.5.6             | Nexus 2406.x     | Mar 2026*     | Aligned with Nexus runtime release |
-| 6.5.8             | Nexus 2408.x     | Mar 2026*     | |
-| 6.5.10            | Nexus 2504.x     | Mar 2026*     | |
+| 6.5.1             | Nexus 2403.x     | September 2026*     | |
+| 6.5.4             | Nexus 2404.x     | September 2026*     | |
+| 6.5.6             | Nexus 2406.x     | September 2026*     | Aligned with Nexus runtime release |
+| 6.5.8             | Nexus 2408.x     | September 2026*     | |
+| 6.5.10            | Nexus 2504.x     | September 2026*     | |
+| 6.5.11            | Nexus 2506.x     | September 2026*     | |
 
 > [!IMPORTANT]
 > \* At max 2 LTS versions will be supported. The dates are tentative assuming that by this timeframe we will have another set of LTS versions released, making this version deprecated per our support guidelines.
