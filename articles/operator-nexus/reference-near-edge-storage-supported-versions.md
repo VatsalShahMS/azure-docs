@@ -103,6 +103,7 @@ Azure Operator Nexus supports and tests the latest combination of a Purity versi
 |------------------|------------|
 | 6.5.8             | 2.2.1     |
 | 6.5.10            | 2.2.2     |
+| 6.5.11            | 2.2.4     |
 
 ## FAQ
 
